@@ -1,5 +1,3 @@
-# Website
-CS10
 # Website Final Project
 CS10
 
